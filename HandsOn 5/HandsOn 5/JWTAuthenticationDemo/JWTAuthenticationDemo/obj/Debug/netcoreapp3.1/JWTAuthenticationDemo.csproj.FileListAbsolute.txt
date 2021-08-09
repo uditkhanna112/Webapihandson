@@ -1,0 +1,58 @@
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.csprojAssemblyReference.cache
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.AssemblyInfoInputs.cache
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.AssemblyInfo.cs
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.exe
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.deps.json
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.runtimeconfig.json
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.runtimeconfig.dev.json
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.dll
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.pdb
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthenticationDemo.StaticWebAssets.Manifest.cache
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthenticationDemo.StaticWebAssets.xml
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\JWTAuthenticationDemo.styles.css
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.csproj.CopyComplete
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.dll
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.pdb
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.genruntimeconfig.cache
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Waseem Akram\Desktop\Cognizant\Stage-4\Web API\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.exe
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.deps.json
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.runtimeconfig.json
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.runtimeconfig.dev.json
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\JWTAuthenticationDemo.pdb
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.csprojAssemblyReference.cache
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.AssemblyInfoInputs.cache
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.AssemblyInfo.cs
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.csproj.CoreCompileInputs.cache
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthenticationDemo.StaticWebAssets.Manifest.cache
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthenticationDemo.StaticWebAssets.xml
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\JWTAuthenticationDemo.styles.css
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.RazorTargetAssemblyInfo.cache
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.csproj.CopyComplete
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.dll
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.pdb
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ASP.NET Core\JWTAuthenticationDemo\JWTAuthenticationDemo\obj\Debug\netcoreapp3.1\JWTAuthenticationDemo.genruntimeconfig.cache
